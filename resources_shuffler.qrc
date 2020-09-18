@@ -1,0 +1,31 @@
+<RCC>
+  <qresource>
+    <file alias="icons/main">imgs/icons/main_shuffler.png</file>
+
+    <file alias="icons/close">imgs/icons/close.png</file>
+    <file alias="icons/delete">imgs/icons/delete.png</file>
+    <file alias="icons/exit">imgs/icons/exit.png</file>
+    <file alias="icons/folder">imgs/icons/folder.png</file>
+    <file alias="icons/help">imgs/icons/help.png</file>
+    <file alias="icons/info">imgs/icons/info.png</file>
+    <file alias="icons/view">imgs/icons/view.png</file>
+    <file alias="icons/top">imgs/icons/top.png</file>
+    <file alias="icons/check">imgs/icons/check.png</file>
+    <file alias="icons/alert">imgs/icons/alert.png</file>
+    <file alias="icons/top_off">imgs/icons/top_off.png</file>
+    <file alias="icons/play">imgs/icons/play.png</file>
+    <file alias="icons/pause">imgs/icons/pause.png</file>
+    <file alias="icons/renew">imgs/icons/renew.png</file>
+
+    <file alias="icons/checkbox">imgs/icons/checkbox.png</file>
+    <file alias="icons/checkbox_blank">imgs/icons/checkbox_blank.png</file>
+    <file alias="icons/checkbox_outline">imgs/icons/checkbox_outline.png</file>
+    <file alias="icons/radiobox">imgs/icons/radiobox.png</file>
+    <file alias="icons/radiobox_blank">imgs/icons/radiobox_blank.png</file>
+
+    <file alias="icons/dark_checkbox">imgs/icons/dark_checkbox.png</file>
+    <file alias="icons/dark_checkbox_blank">imgs/icons/dark_checkbox_blank.png</file>
+    <file alias="icons/dark_radiobox">imgs/icons/dark_radiobox.png</file>
+    <file alias="icons/dark_radiobox_blank">imgs/icons/dark_radiobox_blank.png</file>
+  </qresource>
+</RCC>
